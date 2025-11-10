@@ -1,5 +1,5 @@
-Below is a ready-to-use README.md drafted from your notebook and assignment brief.
-
+name: GAGANA S
+ROLL: da25c008
 # DA5401 A8 — Ensemble Learning on Bike Sharing
 
 This project builds and compares ensemble regressors to forecast hourly bike rentals (target: cnt) using the UCI Bike Sharing dataset. It implements baselines, Bagging, Gradient Boosting, and a Stacking ensemble, and evaluates all models with RMSE on a chronological holdout split to respect time order.
@@ -88,4 +88,5 @@ Hourly demand is time-dependent; using a chronological 80/20 split prevents leak
 
 ## References
 - Dataset: Fanaee-T, Hadi, and Gamper, H. 2014. Bike Sharing Dataset. UCI Machine Learning Repository. 
+
 
