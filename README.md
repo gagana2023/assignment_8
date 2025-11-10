@@ -81,12 +81,12 @@ Hourly demand is time-dependent; using a chronological 80/20 split prevents leak
 - Random states set to 42 for tree-based estimators to stabilize runs. 
 
 ## Repository structure
-- solution.ipynb: Main analysis, models, and results. 
-- A8-Ensembles.pdf: Assignment brief and grading criteria. 
+- solution.ipynb: Main analysis, models, and results.  
 - hour.csv: Dataset file (not included; obtain from UCI). 
 - requirements.txt: See Environment section. 
 
 ## References
 - Dataset: Fanaee-T, Hadi, and Gamper, H. 2014. Bike Sharing Dataset. UCI Machine Learning Repository. 
+
 
 
